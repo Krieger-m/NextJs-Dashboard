@@ -1,4 +1,4 @@
-## Next.js App Router Dashboard
+## Next.js App-Router Dashboard
 
 
 This is based on the template for the Next.js App Router Course. It contains the starting code for the dashboard application and my own additions.  
