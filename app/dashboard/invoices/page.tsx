@@ -6,8 +6,7 @@ export default function Page() {
   return (
     <div>
         <p>Invoices Page</p>
-        <br/>
-        <Back />
+        
     </div>
 );
 }
