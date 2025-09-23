@@ -11,7 +11,7 @@ import { fetchRevenue } from '@/app/lib/data';
 // https://airbnb.io/visx/
 
 export default async function RevenueChart(){
-  const revenue = await fetchRevenue();
+  const revenue = await fetchRevenue(); // fetching the data inside the component
   const chartHeight = 350;
   // NOTE: Uncomment this code in Chapter 7
 
