@@ -8,6 +8,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head>
+        <title>My Dashboard App</title>
+      </head>
       <body className={`${inter.className} antialiased`}>
         {children}
       </body>
