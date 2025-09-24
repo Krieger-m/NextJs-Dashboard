@@ -1,6 +1,7 @@
 ## Next.js App-Router Dashboard
   
-https://mk-dashboard-es.vercel.app/
+deployed version of my demo project  
+https://mk-dashboard-es.vercel.app/  
   
 
 This is based on the template for the Next.js App Router Course. It contains the starting code for the dashboard application and my own additions.  
