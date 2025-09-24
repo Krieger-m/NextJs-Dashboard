@@ -4,7 +4,6 @@ import Link from 'next/link';
 import styles from '@/app/ui/home.module.css'
 import { lusitana } from './ui/fonts';
 import Image from 'next/image'
-import { Analytics } from '@vercel/analytics/next';
 
 
 
@@ -56,7 +55,7 @@ export default function Page() {
             alt='dashboard pictures of mobile version'
           />
         </div>
-        <Analytics />
+        
       </div>
     </main> 
 
